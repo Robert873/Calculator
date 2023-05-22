@@ -1,5 +1,4 @@
 # Calculator
 A Calculator built using JavaScript, HTML and CSS.
 
-![image](https://github.com/Robert873/Calculator/assets/77389640/c9c6c449-5b74-4cee-8048-e7c3b2283f56)
-****
+![image](https://github.com/Robert873/Calculator/assets/77389640/857ec3e3-7236-48ee-981c-ac9e6eee7d38)
